@@ -1,0 +1,21 @@
+html {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 30px 500px;
+  background-size: cover;
+}
+
+body {
+  border: 200px;
+  background-color: aqua;
+}
+
+p {
+  font-size: larger;
+}
+
+button {
+  margin: 6px;
+  padding: 3px 60px;
+  cursor: pointer;
+  background-color: aqua;
+}
